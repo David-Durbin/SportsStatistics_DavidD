@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/SportsStatistics/SportsStatistics.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/SportsStatistics/SportsStatistics.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/SportsStatistics/app/app.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/SportsStatistics/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/SportsStatistics/lib/lib.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/SportsStatistics/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
